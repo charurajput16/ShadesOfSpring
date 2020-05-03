@@ -3,6 +3,11 @@
     "displayName": "Shades of Spring Theme",
     "description": "Preferred color theme by Charu Rajput",
     "version": "1.0.0",
+    "icon": "images/shadesofspring-icon.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/charurajput16/ShadesOfSpring.git"
+    },
     "engines": {
         "vscode": "^1.44.0"
     },

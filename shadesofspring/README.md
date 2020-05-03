@@ -18,6 +18,6 @@ Credit where credit is due ... this theme was inspired by the themes Visual Stud
 
 ## Authors
 
-Authored by [Charu Rajput]
+Authored by [Charu Rajput](https://www.linkedin.com/in/charurajput16/)
 
-Themes reviwed by [Lokesh Arora]
+Themes reviewed by [Lokesh Arora](https://www.linkedin.com/in/lokesharora/)
